@@ -1,2 +1,2 @@
 # master_thesis
-repo for master thesis
+repository for master thesis

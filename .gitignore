@@ -1,0 +1,15 @@
+__pycache__/
+Asthma/
+Codex/
+Coswara-Data/
+Covid/
+old_snippets/
+other_csvs/
+others/
+study_data/
+coswara_extracted.csv
+main_data.csv
+main_data.xlsx
+results.xlsx
+data_description.pptx
+feature_matrix_new.pkl
