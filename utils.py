@@ -28,8 +28,8 @@ class Encode_Labels():
         encoded_labels  = encoder.fit_transform(self.labels)
         
         # printout for label mapping
-        encoder.classes_
-        encoder.inverse_transform([0,1,2])
+        print("Original Labels:", encoder.classes_)
+        print("Corresponding Mapping:", encoder.transform(['asthma', 'copd', 'covid-19', 'healthy']))
 
         return(encoded_labels)
 

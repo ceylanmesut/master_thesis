@@ -3,13 +3,14 @@ Asthma/
 Codex/
 Coswara-Data/
 Covid/
-old_snippets/
-other_csvs/
-others/
+Healthy Coughs/
 study_data/
-coswara_extracted.csv
-main_data.csv
-main_data.xlsx
-results.xlsx
-data_description.pptx
-feature_matrix_new.pkl
+FL_EXPERIMENTS/
+fl_results/
+weekly files/
+results_excels/
+notebooks/
+images/
+main_data_new_data_w-h.csv
+main_data_new_data_w-h.xlsx
+feature_matrix_new_params_new_and_healthy_inc.pkl
